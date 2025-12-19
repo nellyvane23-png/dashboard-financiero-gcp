@@ -22,7 +22,7 @@ y evaluar la rentabilidad por producto.
 - Tabla ejecutiva con métricas financieras
 
 ## 🔗 Dashboard
-👉 [Ver dashboard interactivo](PEGA_AQUÍ_TU_LINK)
+👉 [Ver dashboard interactivo](https://lookerstudio.google.com/s/sdEAEEDHuYg)
 
 ## 📷 Capturas
 Incluye capturas del dashboard para visualización rápida.
